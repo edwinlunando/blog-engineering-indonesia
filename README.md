@@ -1,6 +1,10 @@
 # blog-engineering-indonesia
 Daftar blog engineering Indonesia yang dikurasi secara berkala.
 
+A
+-
+* [Adiyat Mubarak](https://adiyatmubarak.wordpress.com/)
+
 F
 -
 * [Fatih Kalifa](https://pveyes.me/blog/)

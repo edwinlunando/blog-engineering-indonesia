@@ -33,5 +33,8 @@ T
 -
 * [Tentang Data](https://tentangdata.wordpress.com/)
 
+Z
+-
+* [Zaki Akhmad](http://blogs.itb.ac.id/zakiakhmad/)
 
 

@@ -8,6 +8,7 @@ A
 F
 -
 * [Fatih Kalifa](https://pveyes.me/blog/)
+* [Fauzan Emmerling](http://blog.emfeld.com/)
 
 E
 -

@@ -4,6 +4,7 @@ Daftar blog engineering Indonesia yang dikurasi secara berkala.
 A
 -
 * [Adiyat Mubarak](https://adiyatmubarak.wordpress.com/)
+* [Asep Indrayana](https://blog.drayanaindra.com/)
 
 F
 -

@@ -26,6 +26,7 @@ I
 
 K
 -
+* [Klikpedia](http://www.klikpedia.com/)
 * [KMK Labs](http://blog.kmklabs.com/)
 
 S

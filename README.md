@@ -6,6 +6,10 @@ A
 * [Adiyat Mubarak](https://adiyatmubarak.wordpress.com/)
 * [Asep Indrayana](https://blog.drayanaindra.com/)
 
+B
+-
+* [Bukalapak](https://engineering.bukalapak.io/)
+
 F
 -
 * [Fatih Kalifa](https://pveyes.me/blog/)
@@ -36,6 +40,7 @@ S
 T
 -
 * [Tentang Data](https://tentangdata.wordpress.com/)
+* [Tokopedia](http://tech.tokopedia.com/blog/)
 
 Z
 -
